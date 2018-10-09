@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/36443427_10155929241089335_1323694102990028800_o.jpg?_nc_cat=106&oh=3f0a4e9de0e842c1b3fa1142e2e43d27&oe=5C5AAC29');
+    
+    
+}
+
+h1{
+    text-align: center;
+}
+
+#subwrapper{
+    text-align: center;
+    color: navy;
+  
+}
+
+
+button {
+    background-color: rgb(53, 138, 248)F50;
+    border: none;
+    color: rgb(53, 138, 248);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
